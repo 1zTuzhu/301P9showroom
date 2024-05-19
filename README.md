@@ -1,2 +1,2 @@
 # 301P9showroom
-WebVRshowroom for 301P9
+A WebVR showroom that 3D renders the Hunter Henry reading room using React
